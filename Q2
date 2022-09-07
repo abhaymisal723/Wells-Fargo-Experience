@@ -1,0 +1,6 @@
+Topic : Graph
+
+Given a network containing 'n' nodes numbered from 1-n which if of tree shaped. You are also given Edge containing edges Edge[i] = [ui,vi,wi], where 'ui' is source node, 
+'vi' is target node and 'wi' is the weight of edge. You are also given starting node 's'. A data packet can be transmitted from node1 to node2 only if the size of packet 
+is less than or equal to the weight of the edge connecting these nodes. You are sending packets from given starting node 's' and these packets will reach the leaf/end 
+nodes following the above rule. You will need to find the maximum sum of size of all packets which can be transferred from the starting node 's'. 
