@@ -1,3 +1,5 @@
+Topic : Greedy 
+
 Given an array of integers and in each step we need to remove one elment and its all occurrences from array such that after removing this element all elements which 
 are just greater than or smaller than the removed element are also vanished from the array. Need to repeat this process until no element present in array and return 
 the maximum sum of all removed elements. 
